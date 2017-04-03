@@ -1,7 +1,7 @@
 # ImpactOfDeathCommunity
-Projekt w Unity3D na potrzeby kursu "Impact of Death" sieciowej gry !!
+Projekt w Unity3D na potrzeby kursu "Impact of Death", sieciowej gry !!
 
-Tutoriale prezentowane sa co tydzien w sobote o godzinie 17:00 !!!
+Tutoriale prezentowane są co tydzień w sobotę o godzinie 17:00 !!! (mam nadzieję)
 
 https://www.twitch.tv/impactit
 
